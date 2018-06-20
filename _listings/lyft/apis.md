@@ -8,10 +8,10 @@ description: Lyft is a peer-to-peer transportation platform that connects passen
   Lyft now operates in 68 cities across the U.S.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lyft-logo.png
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Lyft
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/lyft/master/_listings/lyft/apis.md
 specificationVersion: "0.14"
 apis:
@@ -252,6 +252,8 @@ x-common:
   url: https://twitter.com/lyft
 - type: x-website
   url: https://www.lyft.com/
+- type: x-website
+  url: http://lyft.com
 include: []
 maintainers:
 - FN: Kin Lane
