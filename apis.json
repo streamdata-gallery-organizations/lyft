@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Lyft",
+	"description": "This is a repository of lyft APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/lyft.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://lyft.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Lyft",
+			"x-api-slug": "lyft",
+			"description": "Lyft is a peer-to-peer transportation platform that connects passengers who need rides with drivers willing to provide rides using their own personal vehicles. Lyft was started in 2012 with the mission of building a peer-to-peer transportation solution that would help make cities safer, more affordable and better connected. Lyft now operates in 68 cities across the U.S.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lyft-logo.png",
+			"humanURL": "https://www.lyft.com/",
+			"baseURL": "https://api.lyft.com//v1",
+			"tags": "Lyft",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/lyft/master/_listings/lyft/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Lyft",
+	"include": [
+		{
+			"name": "Lyft",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/lyft/master/_listings/lyft/apis.yaml"
+		}
+	]
+}

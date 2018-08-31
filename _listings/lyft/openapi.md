@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Lyft
 x-complete: 1
@@ -664,4 +663,3 @@ paths:
             has been used for abuse on Flickr
       tags:
       - Transportation
----
